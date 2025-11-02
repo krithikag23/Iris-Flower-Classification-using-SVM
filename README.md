@@ -27,7 +27,11 @@ The Iris dataset is one of the most popular datasets in machine learning and is 
 | 5.1 | 3.5 | 1.4 | 0.2 | Setosa |
 
 ---
+## 📈 Visualization
 
+Here’s the confusion matrix for the Iris Flower Classification model:
+
+![Confusion Matrix](/confusion_matrix.png)
 ## 🛠️ Requirements
 To install dependencies:
 ```bash
